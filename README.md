@@ -14,9 +14,9 @@ As someone stepping into the world of machine learning, I found it crucial to un
 
 Throughout my journey, I've relied on a variety of learning resources. Here are some of the key ones:
 
-- [Resource 1 Name](link)
-- [Resource 2 Name](link)
-- [Resource 3 Name](link)
+- [Neural Network and Deep Learning book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
+- [Neural Network series by 3Blue 1Brown on Youtube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Understanding Backpropagation with example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 Feel free to explore these resources to dive deeper into neural networks and machine learning.
 
